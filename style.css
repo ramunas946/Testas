@@ -1,0 +1,255 @@
+.container{
+	display: block;
+	max-width: 100%;
+	height: auto;
+	padding:0px;
+}
+
+
+
+.container123 {
+  font-size: 21px;
+  font-family: "GentiumBookBasic";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justifyAll;
+  position: absolute;
+  left: 571.913px;
+  top: 48.361px;
+  width: 710px;
+  height: 21px;
+}
+.active_state {
+  border-width: 6px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  opacity: 0.71;
+  position: absolute;
+  left: 561px;
+  top: 0px;
+  width: 68px;
+  height: 0;
+}
+.nav{
+  font-size: 21px;
+  font-family: "FontAwesome";
+  color: rgb(218, 179, 62);
+  line-height: 1.2;
+  text-align: justifyAll;
+  position: absolute;
+  left: 1303.913px;
+  top: 47.361px;
+  width: 81px;
+  height: 21px;
+}
+.background {
+  background-image: url("background.png");
+  position: absolute;
+  left: -4px;
+  top: 746px;
+  width: 1608px;
+  height: 718px;
+  z-index: 239;
+}
+.section-heading {
+  font-size: 36px;
+  font-family: "YesevaOne";
+  color: rgb(204, 153, 0);
+  line-height: 0.667;
+  text-align: center;
+  position: absolute;
+  left: 248.484px;
+  top: 875.805px;
+  width: 470px;
+  height: 35px;
+  z-index: 247;
+}
+.section-text {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(76, 76, 76);
+  line-height: 1.5;
+  text-align: center;
+  position: absolute;
+  left: 291.911px;
+  top: 984.546px;
+  width: 409px;
+  height: 111px;
+  z-index: 244;
+}
+.section-picture{
+  position: absolute;
+  left: 739px;
+  top: 805px;
+  width: 621px;
+  height: 625px;
+}
+.section-picture2 {
+  position: absolute;
+  left: 425px;
+  top: 1125px;
+  width: 219px;
+  height: 221px;
+}
+
+.Section_Background {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 5000px;
+  z-index: 241;
+}
+
+.background {
+  position: absolute;
+  left: -4px;
+  top: 746px;
+  width: 1608px;
+  height: 718px;
+  z-index: 239;
+}
+.Fine_ingredients {
+  font-size: 36px;
+  font-family: "YesevaOne";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 854.536px;
+  top: 1638.805px;
+  width: 297px;
+  height: 34px;
+}
+.section_text10{
+	font-size: 16px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	line-height: 1.5;
+	text-align: center;
+	position: absolute;
+	left: 892.933px;
+	top: 1769.546px;
+	width: 409px;
+	height: 111px;
+}
+
+.section_text11 {
+  font-size: 12px;
+  font-family: "FontAwesome";
+  color: rgb(255, 255, 255);
+  line-height: 2;
+  text-align: left;
+  position: absolute;
+  left: 986.044px;
+  top: 1917.509px;
+  width: 204px;
+  height: 134px;
+}
+.Text-Background {
+  border-width: 0.06px;
+  border-color: rgb(251, 247, 192);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  opacity: 0.671;
+  position: absolute;
+  left: 815px;
+  top: 1560px;
+  width: 570px;
+  height: 557px;
+}
+.image-bread2 {
+  position: absolute;
+  left: 903px;
+  top: 1927px;
+  width: 114px;
+  height: 114px;
+}
+.red {
+  position: absolute;
+  left: 1043px;
+  top: 1927px;
+  width: 114px;
+  height: 114px;
+}
+.image-bread {
+  position: absolute;
+  left: 1183px;
+  top: 1927px;
+  width: 114px;
+  height: 114px;
+}
+.background-green {
+  position: absolute;
+  width: 1600px;
+  height: 758px;
+}
+.Text-Background{
+  border-width: 0.06px;
+  border-color: rgb(251, 247, 192);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  opacity: 0.671;
+  position: absolute;
+  width: 570px;
+  height: 557px;
+}
+
+.Section-Background3{
+  position: absolute;
+  left: -4px;
+  top: 2214px;
+  width: 1608px;
+  height: 1002px;
+}
+.Heading-food{
+  font-size: 36px;
+  font-family: "YesevaOne";
+  color: rgb(204, 153, 0);
+  line-height: 0.667;
+  text-align: center;
+  position: absolute;
+  left: 262.597px;
+  top: 2343.843px;
+  width: 196px;
+  height: 33px;
+}
+.Heading-food2{
+  font-size: 36px;
+  font-family: "YesevaOne";
+  color: rgb(204, 153, 0);
+  line-height: 0.667;
+  text-align: center;
+  position: absolute;
+  left: 270.115px;
+  top: 2773.805px;
+  width: 118px;
+  height: 28px;
+}
+
+
+.Heading-food3{
+  font-size: 36px;
+  font-family: "YesevaOne";
+  color: rgb(204, 153, 0);
+  line-height: 0.667;
+  text-align: center;
+  position: absolute;
+  left: 863.961px;
+  top: 2342.599px;
+  width: 150px;
+  height: 28px;
+}
+.Heading-food4{
+  font-size: 36px;
+  font-family: "YesevaOne";
+  color: rgb(204, 153, 0);
+  line-height: 0.667;
+  text-align: center;
+  position: absolute;
+  left: 860.485px;
+  top: 2675.805px;
+  width: 223px;
+  height: 27px;
+}
